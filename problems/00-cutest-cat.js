@@ -25,5 +25,5 @@ const cats = [
   { name: 'Tiger', cuteness: 7 },
   { name: 'Indie', cuteness: 5 },
 ]
-debugger
+//debugger
 console.log(cutestCat(cats)); // { name: 'Fluffy', cuteness: 9 }
