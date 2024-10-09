@@ -14,10 +14,11 @@ function feedPet(name) {
   }
 }
 
+
 const feedHydra = feedPet('Hydra');
 
-console.log(feedHydra('bones')); // Fed Hyrda bones.
-console.log(feedHydra('Hercules')); // Fed Hyrda bones, Hercules.
+console.log(feedHydra('bones')); // Fed Hydra bones.
+console.log(feedHydra('Hercules')); // Fed Hydra bones, Hercules.
 
 const feedHippogriff = feedPet('Hippogriff');
 

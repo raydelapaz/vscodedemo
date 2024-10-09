@@ -3,8 +3,7 @@
 Fix the `cutestCat` function. Should return the cat with the highest `cuteness`
 rating. Whee
 */
-// testting
-//more changes
+
 function cutestCat(cats) {
   let cutest;
   let i = 0;

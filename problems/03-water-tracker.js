@@ -13,7 +13,7 @@ A calendar is represented by multiple weeks,
 If you drank water for at least 4 days for every week in the calendar,
 then return true. Otherwise, return false.
 
-
+more debug!
 */
 
 function adequateWaterTracker(calendar) {
